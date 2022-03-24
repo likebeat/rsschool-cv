@@ -10,4 +10,4 @@ I'm 30 y.o. I want to gain new knowledge and I am able in a new field for me.
 ## Education: 
 Higher Education: BNTU (Belarusian National Technical University) Business manager - economist, 2015-2020
 ## Skills:
-HTML,CSS
+HTML,CSS,JS
