@@ -1,1 +1,1 @@
-https://likebeat.github.io/rsschool-cv/cv
+https://likebeat.github.io/rsschool-cv/
